@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class AlanHesabi {
+public class Hipotenus {
     public static void main(String[] args){
 
         //Üçgenin kenar uzunluklarını(değişkenleri) tanımlayalım
