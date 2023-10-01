@@ -9,7 +9,7 @@ public class AreaOfSector {
         Scanner input = new Scanner(System.in);
 
         //Ask user for radius
-        System.out.print("Enter the rasius of the circle :");
+        System.out.print("Enter the radius of the circle :");
         r = input.nextDouble();
         System.out.print("Enter the  angle of center of the sector :");
         angle = input.nextDouble();
